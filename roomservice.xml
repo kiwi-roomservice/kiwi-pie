@@ -1,5 +1,5 @@
 <manifest>
-  <project name="kiwi-pie/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-16.0" />
-  <project name="kiwi-pie/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="lineage-16.0" />
-  <project name="kiwi-pie/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="lineage-16.0" />
+  <project name="kiwi-roomservice/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="lineage-16.0" />
+  <project name="kiwi-roomservice/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="lineage-16.0" />
+  <project name="kiwi-roomservice/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="lineage-16.0" />
 </manifest>
